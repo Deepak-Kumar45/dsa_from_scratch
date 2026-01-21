@@ -1,9 +1,8 @@
-package com.dsa.basic50.phase1.level1;
+package com.dsa.basic50.phase1;
 
 import java.util.Scanner;
 
-public class Basic1_to_10 {
-
+public class Level_1 {
     public static void takeUserInput() {
         Scanner scan = new Scanner(System.in);
 
